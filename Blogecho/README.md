@@ -13,7 +13,7 @@
 4. 在博客后台点击启用
 
 ## 演示
-体验 Blogecho 主题: [Blogecho 演示](http://www.zhtblog.top)
+体验 Blogecho 主题: [菜鸟小张 演示](http://www.zhtblog.top)
 > 注意：此演示基于 Hexo，与 Typechoe 有些许差异。
 
 
