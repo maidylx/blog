@@ -1,8 +1,5 @@
 ![image](githubimg/blogecho.jpg)
 ## Blogecho for Typecho 概述
-- 作者：JackieLiu
-
-
 ## 特性
  1. 集成代码高亮
  2. 完美兼容 MarkDown 语法
